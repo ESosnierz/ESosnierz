@@ -3,14 +3,14 @@
 
 <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=9F2129&vCenter=true&width=435&lines=Seja+bem+vindo!;Em+que+posso+ajudar?"/>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Sobre mim!
 
 - **💻 Desenvolvedor Front-End**, também com habilidades em designer gráfico:
 
 - **📖 Estou estudando:**
-  - [JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-  - [React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-  - [Node.JS](src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">)&nbsp;
+  - JavaScript
+  - React
+  - Node.JS
 
 - **📫 E-mail para contato:** dev.elsonms@gmail.com
 
@@ -33,7 +33,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-#### Base de dados
+#### Banco de dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQlite](https://img.shields.io/badge/-SQlite-05122A?style=for-the-badge&logo=sqlite&logoColor=A8B9CC)&nbsp;
