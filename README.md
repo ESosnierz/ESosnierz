@@ -1,8 +1,7 @@
-# Elson Sosnierz!
+# Elson Sosnierz
+![Linkedin Badge](https://img.shields.io/badge/-Elson%20Sosnierz-0066A1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elson-sosnierz-122443147/)
 
 <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=9F2129&vCenter=true&width=435&lines=Seja+bem+vindo!;Em+que+posso+ajudar?"/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Elson%20Sosnierz-0066A1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elson-sosnierz-122443147/)]
 
 ## 🙋‍♂️ About Me
 
