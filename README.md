@@ -12,7 +12,7 @@
   - [React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
   - [Node.JS](src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">)&nbsp;
 
-- **📫 E-mail para contato:** mateusandriola18@gmail.com
+- **📫 E-mail para contato:** dev.elsonms@gmail.com
 
 </br>
 
@@ -49,4 +49,4 @@
 
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)&nbsp;
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
-![CorelDraw](https://img.shields.io/static/v1?label=<LABEL>&message=CorelDRAW<MESSAGE>&color=brightgreen<COLOR>)&nbsp;
+![CorelDraw](https://img.shields.io/static/v1?label=&message=CorelDRAW&color=brightgreen<COLOR>)&nbsp;
