@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ Sobre mim!
 
-- **💻 Desenvolvedor Front-End**, também com habilidades em designer gráfico:
+- **💻 Desenvolvedor Full Stack**, também com habilidades em designer gráfico:
 
 - **📖 Estou estudando:**
   - JavaScript
